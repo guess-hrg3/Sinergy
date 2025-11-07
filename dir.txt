@@ -1,0 +1,14 @@
+sinergy_integration/
+├── main.py                     
+├── ws_client.py                
+├── .env               
+├── database/                   
+│   ├── connection.py         
+│   ├── funcionarios.py         
+├── parsers/
+│   ├── funcionarios.py         
+├── services                    
+│   ├── funcionarios.py         
+└── utils/
+    ├── dates.py               
+    └── xml_helpers.py          
